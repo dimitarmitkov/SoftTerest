@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70e71141-3a9e-42b0-82f2-880d21e85457" name="Default Changelist" comment="" />
+    <list default="true" id="70e71141-3a9e-42b0-82f2-880d21e85457" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +17,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZncYxKgoRa304UHREiqutJRXmy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -50,17 +58,26 @@
       <workItem from="1585478350578" duration="206000" />
       <workItem from="1585899909080" duration="616000" />
       <workItem from="1585901744440" duration="27388000" />
+      <workItem from="1589447033996" duration="1006000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585903798111">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
     <state x="458" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.839@0.23.1440.839" timestamp="1585903798111" />
+    <state x="511" y="296" key="Github.ShareDialog" timestamp="1589447266111">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="511" y="296" key="Github.ShareDialog/0.23.1280.739@0.23.1280.739" timestamp="1589447266111" />
+    <state x="359" y="104" key="Github.UntrackedFilesDialog" timestamp="1589447284798">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="359" y="104" key="Github.UntrackedFilesDialog/0.23.1280.739@0.23.1280.739" timestamp="1589447284797" />
     <state width="1419" height="218" key="GridCell.Tab.0.bottom" timestamp="1585478555951">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
